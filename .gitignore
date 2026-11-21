@@ -1,0 +1,5 @@
+venv/
+.ipynb_checkpoints/
+Untitled.ipynb
+heatmap.png
+__pycache__/
